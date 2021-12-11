@@ -10,7 +10,7 @@
   "NFT_NAME": "Doodle-Punks",
 
   "SYMBOL": "Doodle-Punks",
-  "MAX_SUPPLY": 2099,
+  "MAX_SUPPLY": 9999,
   "WEI_COST": 60000000000000000,
   "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 285000,
