@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x42bb782c26a3b0195d259588db24af7012fb754d",
+  "OWNER_ADDRESS": "0x31a108cA084A1A0d1205b0052c1c706E902A2868",
+  "SCAN_LINK": "https://etherscan.io/address/0x42bb782c26a3b0195d259588db24af7012fb754d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Doodle-Punks",
+
+  "SYMBOL": "Doodle-Punks",
+  "MAX_SUPPLY": 2099,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/doodle-pink-collection",
+  "SHOW_BACKGROUND": true
+}

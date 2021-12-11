@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dec4a39a.chunk.css",
+    "main.js": "/static/js/main.e959a3d1.chunk.js",
+    "main.js.map": "/static/js/main.e959a3d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.563f96a4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.563f96a4.js.map",
+    "static/css/2.07b59057.chunk.css": "/static/css/2.07b59057.chunk.css",
+    "static/js/2.e03f2957.chunk.js": "/static/js/2.e03f2957.chunk.js",
+    "static/js/2.e03f2957.chunk.js.map": "/static/js/2.e03f2957.chunk.js.map",
+    "static/js/3.175becac.chunk.js": "/static/js/3.175becac.chunk.js",
+    "static/js/3.175becac.chunk.js.map": "/static/js/3.175becac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.07b59057.chunk.css.map": "/static/css/2.07b59057.chunk.css.map",
+    "static/css/main.dec4a39a.chunk.css.map": "/static/css/main.dec4a39a.chunk.css.map",
+    "static/js/2.e03f2957.chunk.js.LICENSE.txt": "/static/js/2.e03f2957.chunk.js.LICENSE.txt",
+    "static/media/about.7242b1bb.png": "/static/media/about.7242b1bb.png",
+    "static/media/book2.36f5d2a8.png": "/static/media/book2.36f5d2a8.png",
+    "static/media/close.3803ac12.svg": "/static/media/close.3803ac12.svg",
+    "static/media/cryptin.b7f3d13e.jpg": "/static/media/cryptin.b7f3d13e.jpg",
+    "static/media/defi.14fb4d40.png": "/static/media/defi.14fb4d40.png",
+    "static/media/discord.901201bf.svg": "/static/media/discord.901201bf.svg",
+    "static/media/gabi.4cb55483.png": "/static/media/gabi.4cb55483.png",
+    "static/media/logo.238b43ee.png": "/static/media/logo.238b43ee.png",
+    "static/media/rocket2.075cf679.svg": "/static/media/rocket2.075cf679.svg",
+    "static/media/staking.fb308a50.png": "/static/media/staking.fb308a50.png",
+    "static/media/symphony.a6a2e305.jpg": "/static/media/symphony.a6a2e305.jpg",
+    "static/media/tokens.4baeb7db.png": "/static/media/tokens.4baeb7db.png",
+    "static/media/twitter.6acd6f97.svg": "/static/media/twitter.6acd6f97.svg",
+    "static/media/vault.0668dbc5.png": "/static/media/vault.0668dbc5.png",
+    "static/media/voting.fc398c5b.png": "/static/media/voting.fc398c5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.563f96a4.js",
+    "static/css/2.07b59057.chunk.css",
+    "static/js/2.e03f2957.chunk.js",
+    "static/css/main.dec4a39a.chunk.css",
+    "static/js/main.e959a3d1.chunk.js"
+  ]
+}
