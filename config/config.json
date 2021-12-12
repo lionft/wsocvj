@@ -13,7 +13,7 @@
   "MAX_SUPPLY": 9999,
   "WEI_COST": 60000000000000000,
   "DISPLAY_COST": 0.06,
-  "GAS_LIMIT": 320000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/doodle-pink-collection",
   "SHOW_BACKGROUND": true
