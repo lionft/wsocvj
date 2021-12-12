@@ -11,8 +11,8 @@
 
   "SYMBOL": "Doodle-Punks",
   "MAX_SUPPLY": 9999,
-  "WEI_COST": 60000000000000000,
-  "DISPLAY_COST": 0.06,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.07,
   "GAS_LIMIT": 600000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/doodle-pink-collection",
